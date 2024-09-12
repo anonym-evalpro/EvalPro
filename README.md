@@ -11,7 +11,7 @@
 
 The growing use of artificial intelligence (AI) in software engineering (AI4SE) has highlighted the critical need for robust and consistent benchmarking practices. Many of the current benchmarks lack the rigor and standardization needed for precise model evaluation, limiting their effectiveness. Additionally, there is a shortage of comprehensive reviews that could help users navigate and understand existing benchmarks.
 
-To address this challenge, we conducted an extensive survey of 111 AI4SE benchmarks, extracting insights and identifying key limitations in the existing evaluation methods. These findings informed the development of EvalProSearch, a novel tool designed to assist users in discovering relevant benchmarks and accessing associated literature. In a user study involving 20 practitioners and researchers, EvalProSearch was validated for its effectiveness and ease of use.
+To address this challenge, we conducted an extensive survey of 111 AI4SE benchmarks, extracting insights and identifying key limitations in the existing evaluation methods. These findings informed the development of EvalProSearch, a novel tool designed to assist users in discovering relevant benchmarks and accessing associated literature. In a user study involving 22 practitioners and researchers, EvalProSearch was validated for its effectiveness and ease of use.
 
 In addition, we created EvalPro, a framework aimed at enhancing benchmark quality. As a case study, we applied EvalPro to the widely-used HumanEval code generation benchmark to address its weaknesses. HumanEvalPro, the improved version, includes corrected errors, improved language conversions, increased test coverage, and heightened difficulty.
 
