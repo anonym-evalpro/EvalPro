@@ -156,11 +156,11 @@ For a more detailed analysis of the study, please refer to the paper.
 
 - **Did you experience any issues or challenges?**
    - **Scale**: Open-ended
-   - **Results**: ![Word Cloud](..\images\wordCloudIssues.png)
+   - **Results**: ![Word Cloud](../images/wordCloudIssues.png)
 
 - **What other tools do you use for searching benchmarks?**
    - **Scale**: Open-ended
-   - **Results**: ![Word Cloud](..\images\wordCloudOtherTools.png)
+   - **Results**: ![Word Cloud](../images/wordCloudOtherTools.png)
 
 - **How does this tool compare to others?**
    - **Scale**: 5-point Likert Scale
@@ -188,4 +188,4 @@ For a more detailed analysis of the study, please refer to the paper.
 ## Additional Comments
 - **Do you have any suggestions for improving the tool?**
    - **Scale**: Open-ended
-   - **Results**: ![Word Cloud](..\images\wordCloudAdditionalFeatures.png)
+   - **Results**: ![Word Cloud](../images/wordCloudAdditionalFeatures.png)
