@@ -36,7 +36,13 @@ HumanEvalPro is an improved version of the HumanEval code generation benchmark.
 The improvements made are based on the framework EvalPro. This framework is aimed at enhancing benchmark quality through a rigorous improvement process along with peer reviews.
 An overview of the approach along with the specific applicability to HumanEval has been illustrated below.
 
-![HumanEvalPro Improvement Process](./images/HumanEvalPro_approach.png)
+![HumanEvalPro Improvement Process](./images/HumanEvalPro_approach.png "Figure 1. The Process of improving HumanEval through the EvalPro framework")
+**Figure 1. The Process of improving HumanEval through the EvalPro framework**
 
 The evaluation results of benchmark can be found [here](https://evalpro.online/leaderboard.html).
 A more detailed description of HumanEvalPro can be found [here](./HumanEvalPro/README.md).
+We find the following results results when benchmarking 10 SOTA open-weight models.
+
+
+![HumanEvalPro Comparative Results](./images/Figure2.png "Figure 2. Comparison of HumanEval with two enhanced versions.")
+**Figure 2. Comparison of HumanEval with two enhanced versions.**
