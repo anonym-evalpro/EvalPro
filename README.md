@@ -23,12 +23,10 @@ The EvalPro Suite, which includes the survey, tools, and improved benchmarks, is
 
 The review section can be found [here](./Review/README.md).
 
-
 ## EvalProSearch
 
 EvalProSearch is a tool that helps users discover relevant benchmarks and access associated literature. The tool can be found [here](https://evalpro.online/search.html).
 The results of the user study on EvalProSearch can be found [here](./Search/README.md).
-
 
 ## HumanEvalPro
 
@@ -45,4 +43,4 @@ We find the following results results when benchmarking 10 SOTA open-weight mode
 
 
 ![HumanEvalPro Comparative Results](./images/Figure2.png "Figure 2. Comparison of HumanEval with two enhanced versions.")
-**Figure 2. Comparison of HumanEval with two enhanced versions.**
+**Figure 2. Comparison of HumanEval with two enhanced versions. (HumanEvalPro and EvalPlus)**
